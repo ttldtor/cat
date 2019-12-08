@@ -1,1 +1,2 @@
 # cat
+![Cat](./cat.svg)
